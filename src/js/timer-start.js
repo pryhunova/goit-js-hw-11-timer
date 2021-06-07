@@ -5,4 +5,4 @@ const timer = new CountdownTimer({
   targetDate: '6 Dec 2021',
 });
 
-timer.init();
+// timer.init();
